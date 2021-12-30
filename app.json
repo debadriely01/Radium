@@ -1,8 +1,8 @@
 {
-    "name": "Radium",
+    "name": "KFLIX Tv",
     "description": "Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.",
-    "repository": "https://github.com/Zibbp/Radium",
-    "logo": "https://raw.githubusercontent.com/Zibbp/Radium/master/static/android-chrome-512x512.png",
+    "repository": "https://github.com/debadriely01/Radium",
+    "logo": "https://raw.githubusercontent.com/debadriely01/Radium/master/static/android-chrome-512x512.png",
     "keywords": ["node", "vue", "stream", "hls", "movie", "sync", "watch"],
     "image": "heroku/nodejs",
     "env": {
